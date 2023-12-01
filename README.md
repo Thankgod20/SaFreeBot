@@ -1,7 +1,11 @@
 # SaFreeBot: ERC20 Token Security Checker and Honeypot Detector
+
+
 ![Screenshot 2023-12-02 at 00 11 14](https://github.com/Thankgod20/SaFreeBot/assets/38052903/6c681d17-0541-43ce-b128-14f8d18462e9)
 
 SaFreeBot is a Telegram bot designed to enhance the security analysis of ERC20 tokens by inspecting various functions, identifying potential vulnerabilities, and detecting honeypot tokens. This project is implemented in Golang, JavaScript, and Solidity to provide a comprehensive set of tools for evaluating the security of ERC20 tokens.
+
+
 ![Screenshot 2023-12-02 at 00 12 02](https://github.com/Thankgod20/SaFreeBot/assets/38052903/1ff68547-6e8f-4244-8460-fde337761cba)
 
 ## Features
