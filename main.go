@@ -23,7 +23,7 @@ var Activated []string
 var ethlib eth.EthLib
 
 func main() {
-	bot, err := tgbotapi.NewBotAPI("6185386343:AAGWt3VqV5h4yZqA6YWzc6uOnOZ9_1rmdJw")
+	bot, err := tgbotapi.NewBotAPI("")
 	if err != nil {
 		log.Panic(err)
 	}
