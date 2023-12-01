@@ -45,7 +45,6 @@ git clone https://github.com/Thankgod20/SaFreeBot.git
    go mod download
 
    # Install Node.js dependencies
-   cd frontend
    npm install
    ```
 
