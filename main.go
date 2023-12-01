@@ -37,7 +37,7 @@ func main() {
 
 	updates, err := bot.GetUpdatesChan(u)
 	//offsetMsg := regexp.MustCompile("(?i)0x[a-fA-F0-9]{40}") https://bsc-dataseed1.binance.org/https://rpc.ankr.com/bsc
-	ethlib = eth.InitEthlib(context.Background(), "https://bsc-dataseed1.binance.org/", "https://mainnet.infura.io/v3/56bb53b84c2e439fa277c9e6522044fe", "royal base fatigue this cry donate shoot impulse region square field toilet")
+	ethlib = eth.InitEthlib(context.Background(), "https://bsc-dataseed1.binance.org/", "https://mainnet.infura.io/v3/", "Mnemonics")
 	for update := range updates {
 		if len(CA) > 30 {
 			CA = []string{}
