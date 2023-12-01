@@ -1,0 +1,4 @@
+{
+    "contractName": "FrontRunBot",
+    "abi":[{"anonymous":false,"inputs":[{"indexed":false,"internalType":"string","name":"message","type":"string"},{"indexed":false,"internalType":"uint256","name":"val","type":"uint256"}],"name":"log","type":"event"},{"inputs":[{"internalType":"address[]","name":"path","type":"address[]"},{"internalType":"uint256","name":"amount","type":"uint256"}],"name":"initFrontRunTrnx","outputs":[],"stateMutability":"nonpayable","type":"function"},{"stateMutability":"payable","type":"receive"}]
+}

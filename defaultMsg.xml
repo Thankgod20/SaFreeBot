@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Message>
+    <start>
+Hi, %s the bot generates an analysis report for BSC, ETH chain tokens with Rug Checker, HP Checker, Token Info with circulating supply. BUSD, USDT, WBNB, USDC, WETH,and DAI,  currencies are supported.
+
+How to use bot?
+Send contract address, the bot will determine which chain it is and then generates an analysis report.
+
+How to add the bot to Group?
+Add @SafreeAnalyzerbot to your group and then give it admin rights. It is ready to use. ATTENTION you can only use the bot as /safe contract address in the groups. Channel is not supported.
+
+——————————————————————————————
+🔸BSC supporting Dex List
+- Pancakeswap, Apeswap, Biswap, Babyswap
+
+🔹ETH supporting Dex List
+- UniSwap, SushiSwap
+
+——————————————————————————————
+🔸BSC supporting Lock Services
+- Unicrypt, PinkSale,  TokenTool, Mudra, Cryptex, Deeplocker, TrustSwap,  Bscrypt, UniLocker, and CookieSale
+
+🔹ETH supporting Lock Services
+- Unicrypt, PinkSale, TrustSwap, UniLocker
+</start>
+<report>⏱ %s Report is being generated...</report>
+
+</Message>

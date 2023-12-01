@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LockABI>
+    <pinksale>
+[{"anonymous":false,"inputs":[{"indexed":true,"internalType":"uint256","name":"id","type":"uint256"},{"indexed":false,"internalType":"address","name":"token","type":"address"},{"indexed":false,"internalType":"address","name":"owner","type":"address"},{"indexed":false,"internalType":"uint256","name":"amount","type":"uint256"},{"indexed":false,"internalType":"uint256","name":"unlockDate","type":"uint256"}],"name":"LockAdded","type":"event"}]
+    </pinksale>
+</LockABI>
+
