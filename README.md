@@ -51,10 +51,10 @@ git clone https://github.com/Thankgod20/SaFreeBot.git
 4. Configure the bot:
 
    - Set up a Telegram bot on [BotFather](https://core.telegram.org/bots#botfather) and obtain the token.
-   - Create a `.env` file in the project root with the following content:
+   - In the Main.go FIle input your telegram bot token:
 
      ```env
-     TELEGRAM_BOT_TOKEN=<your-telegram-bot-token>
+     tgbotapi.NewBotAPI(<your-telegram-bot-token>)
      ```
 
 5. Run the bot:
