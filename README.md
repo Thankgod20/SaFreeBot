@@ -79,10 +79,10 @@ git clone https://github.com/Thankgod20/SaFreeBot.git
 Contributions are welcome! Feel free to open issues, submit pull requests, or suggest improvements.
 
 ## License
-## Help
-https://github.com/ethereum/solc-js/issues/226
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+## Help
+https://github.com/ethereum/solc-js/issues/226
 ---
 
 **Note:** SaFreeBot is a tool designed for security analysis and informational purposes. It is not intended for malicious use. Users should use this tool responsibly and adhere to ethical guidelines when evaluating ERC20 tokens.
